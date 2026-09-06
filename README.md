@@ -78,21 +78,9 @@ A few things I care about:
       <p><sub>TypeScript · UBL-TR · e-Fatura / e-İrsaliye</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/yankikucuk/monorepo">monorepo</a></h3>
-      <p>April, a strict and type-safe TypeScript monorepo. Snowflake-style ID generation plus the shared tooling and configuration presets that every new package starts from.</p>
-      <p><sub>TypeScript · monorepo · tooling</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3><a href="https://github.com/yankikucuk/april">april</a></h3>
       <p>April Interface, a lightweight CSS framework built on Less. Sensible defaults, a small footprint and nothing you have to fight against.</p>
       <p><sub>CSS · Less · UI framework</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/yankikucuk/dotfiles">dotfiles</a></h3>
-      <p>Configuration files for real operating systems. The shell, editor and tooling setup I carry from machine to machine.</p>
-      <p><sub>Shell · configs</sub></p>
     </td>
   </tr>
 </table>
