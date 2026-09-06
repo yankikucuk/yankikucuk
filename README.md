@@ -71,18 +71,6 @@ A few things I care about:
       <p><sub>TypeScript · GİB e-Arşiv · zero dependencies</sub></p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/yankikucuk/ubl-tr">ubl-tr</a></h3>
-      <p>UBL-TR 1.2.1 e-document layer in TypeScript. Generates, parses and validates e-Fatura and e-İrsaliye documents against the Turkish national profile, again with no runtime dependencies.</p>
-      <p><sub>TypeScript · UBL-TR · e-Fatura / e-İrsaliye</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/yankikucuk/april">april</a></h3>
-      <p>April Interface, a lightweight CSS framework built on Less. Sensible defaults, a small footprint and nothing you have to fight against.</p>
-      <p><sub>CSS · Less · UI framework</sub></p>
-    </td>
-  </tr>
 </table>
 
 <br />
